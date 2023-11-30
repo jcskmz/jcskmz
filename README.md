@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **jcskmz/jcskmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jessica.scholz@missouri.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to sew
--->
